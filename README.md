@@ -1,12 +1,11 @@
-ECE391 MP3 - Package contents
-================================
+# ECE391 MP3 - Package contents
 
-authors
-	[Shashank Saxena](https://shashanksaxena.me)
-	[Rahul Surti](https://rahulsurti97.github.io)
-	David Null
-	Shawn Pachgade
-
+# Authors
+- [Shashank Saxena](https://shashanksaxena.me)
+- [Rahul Surti](https://rahulsurti97.github.io)
+- David Null
+- Shawn Pachgade
+```
 createfs
     This program takes a flat source directory (i.e. no subdirectories
     in the source directory) and creates a filesystem image in the
@@ -54,3 +53,4 @@ syscalls/
     functions have also been written (things like strlen, strcpy, etc.)
     that are used by the utility programs.  The Makefile is set up to
 	build these programs for your OS.
+```
